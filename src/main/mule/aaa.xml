@@ -6,7 +6,6 @@
 http://www.mulesoft.org/schema/mule/http http://www.mulesoft.org/schema/mule/http/current/mule-http.xsd">
 	<flow name="aaaFlow" doc:id="eb61dce5-cd0f-4ec3-996b-f405d7edbe05" >
 		<logger level="INFO" doc:name="Logger" doc:id="2b1433f2-6f0a-4b6f-b758-e57e58acabda" />
-		<logger level="INFO" doc:name="Logger" doc:id="da6cf43a-85ac-4a6a-a423-bb1b1266e543" />
 	</flow>
 	<sub-flow name="aaaSub_Flow" doc:id="1a1cb54c-905b-4ad8-b4be-4101f3082290" >
 		<logger level="INFO" doc:name="Logger" doc:id="20785af1-a5a3-4503-9173-c34d2f180533" />
